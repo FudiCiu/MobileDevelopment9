@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VideoYoutube</string>
+    <string name="title_logo">NATIONAL GEOGRAPHIC</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+    <string name="error_player">Ada eror di inisiasi Youtube</string>
+</resources>
